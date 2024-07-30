@@ -1,0 +1,43 @@
+body {
+    background-color: lavender;
+}
+
+section {
+    margin: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: silver;
+}
+
+ul{
+    display: flex;
+    padding-left: 0;
+}
+
+li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: silver;
+    font-weight: bold;
+}
+
+
+article {
+    background-color:ghostwhite;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+img {
+    width: 400px;
+}
